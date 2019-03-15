@@ -112,6 +112,12 @@ print(r)
 This code will pull the data from thingspeak. If the data equal 1 the light will turn on and if the data equal 0 the light will turn off.
 The script was run in Python. The serial Port had to be the correct one in order for the Python script to run. Our port was '/dev/cu.usbserial-DN02SRDI' and must be checked in the Windows Device Manager.
 
+
+
+thinkspeak value.ipynb
+
+
+
 import serial
 serial.__version__
 import serial
