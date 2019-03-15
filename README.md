@@ -56,7 +56,7 @@ Step 3:
 
 
 
-
+https://github.com/nganvan/Python-Light-Relay/blob/master/thinkspeak%20value.ipynb
 
 
 
