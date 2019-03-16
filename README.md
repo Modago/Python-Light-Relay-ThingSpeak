@@ -7,22 +7,17 @@ The objective was to find a way to turn a light on and off using the SparkFun Re
  
 ## Hardware Setup
 ### Bill of Materials
-component
-vendor
-Arduino
-SparkFun RedBoard - Programmed with Arduino
-Relay
-SparkFun Beefcake Relay Control Kit (Ver. 2.0)
-Jumper wires
-Jumper Wires Premium 6" M/M Pack of 10
-Mini-B USB cable
-SparkFun USB Mini-B Cable - 6 Foot
-Enclosure
-Big Red Box - Enclosure
-extension cord male end
-Recieved from PCC Engineering Lab
-extension cord female end
-Recieved from PCC Engineering Lab
+|component                |vendor                                                                                   |
+| ----------------------- |:----------------------------------------------------------------------------------------| 
+|Arduino                  |[SparkFun RedBoard - Programmed with Arduino](https://www.sparkfun.com/products/13975)   |
+|Relay                    |[SparkFun Beefcake Relay Control Kit (Ver. 2.0)](https://www.sparkfun.com/products/13815)|
+|Jumper wires             |[Jumper Wires Premium 6" M/M Pack of 10](https://www.sparkfun.com/products/8431)         |
+|Mini-B USB cable         |[SparkFun USB Mini-B Cable - 6 Foot](https://www.sparkfun.com/products/11301)            |
+|Enclosure                |[Big Red Box - Enclosure](https://www.sparkfun.com/products/11366)                       |
+|Wire Nuts                |Recieved from PCC Engineering Lab|
+|zip ties for strain relief|Recieved from PCC Engineering Lab|
+|extension cord male end  |Recieved from PCC Engineering Lab                                                        |
+|extension cord female end|Recieved from PCC Engineering Lab                                                        |
 ### Hardware Schematic.
 ![](images/fritzing_light_relay.png)
 ### Hookup Guide:
