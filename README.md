@@ -99,7 +99,7 @@ In this final step place your Arduino on one of the ¾ inch risers and secure it
 
 ## Code:
 ### Python code:
-The light_relay.m script was run in Python.
+The [project_code.py](https://github.com/nganvan/Python-Light-Relay/blob/master/Project_code.py) script was run in Python.
 
 
 	import serial
@@ -135,20 +135,6 @@ The light_relay.m script was run in Python.
 	    ser.write(B'L')
 	    print('Light is now off')
 	ser.close()  # close port
-
-
-
-
-
-
-[thinkspeak value.ipynb](https://github.com/ProfessorKazarinoff/MATLAB-pump-relay)
-
-
-
-
-
-
-
 
 
 
@@ -204,11 +190,6 @@ The light_relay.m script was run in Python.
 	    }
 	  }
 	}
-
-
-
-
-
 
 
 
