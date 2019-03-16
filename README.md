@@ -101,7 +101,7 @@ In this final step place your Arduino on one of the ¾ inch risers and secure it
 
 ## Code:
 ### Python code:
-The [project_code.py](https://github.com/nganvan/Python-Light-Relay/blob/master/Project_code.py) script was run in Python.
+The [light_relay.py](https://github.com/nganvan/Python-Light-Relay/blob/master/light_relay.py) script was run in Python.
 
 
 	import serial
