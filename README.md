@@ -115,7 +115,7 @@ The light_relay.m script was run in Python.
 	
 
 	#use the requests library to pull down the data from thingspeak into a variable
-
+	url = 'https://api.thingspeak.com/channels/712547/fields/1.json?results=1'
 	r = requests.get(url)
 	print(r)
 	json_data = r.json()
