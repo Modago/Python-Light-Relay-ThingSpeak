@@ -28,9 +28,7 @@ Hardware Schematic.
 ### Hookup Guide:
 #### Step 1:
 Cut holes into Big Red Box enclosure. Make sure that the Arduino MiniB connector line up.
-<br>
-<img height="700" scr="https://github.com/nganvan/Python-Light-Relay/blob/master/IMG_4671.JPG" />
-<br>
+![](images/IMG_4671.JPG)
 
 
 
@@ -44,6 +42,7 @@ Cut holes into Big Red Box enclosure. Make sure that the Arduino MiniB connector
 #### Step 2: 
 Thread the power cables through the side holes and separate the wire colors.  Now using the black wires, connect the Male prong to the High voltage side of the relay marked COM. Next, do the same with the female, but connect to the spot in the middle marked NO. In this step, you will also connect three jumper wires to the low voltage side of the relay.
 
+![](images/IMG_4674.JPG)
 
 
 
@@ -54,6 +53,7 @@ Thread the power cables through the side holes and separate the wire colors.  No
 #### Step 3:
 Next, using the twist-on wire connectors, twist both white wires together and both green wires together. Tuck them down in the Big Red Box somewhere out of the way. In this step, you will also want to screw down the Beefcake relay into one of the risers that are provided. 
 
+![](images/IMG_4675.JPG)
 
 
 
@@ -79,6 +79,7 @@ Next, using the twist-on wire connectors, twist both white wires together and bo
 In this final step place your Arduino on one of the ¾ inch risers and secure it to one of the spaces in the bottom of the box. The next thing you will need to do is connect the wires from the relay. Take the black jumper wire secured to the ground port and connect it to the Arduino’s GND port. Now, take the Yellow wire secured to the CTRL port on the relay and connect it to port #13 on the Arduino. Finally, Take the red wire secured tot he 5v port on the relay and connect it to the 5v port on your Arduino. 
 
 
+![](images/IMG_4676.JPG)
 
 
 
