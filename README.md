@@ -141,7 +141,7 @@ The [project_code.py](https://github.com/nganvan/Python-Light-Relay/blob/master/
 
 
 ### Arduino code:
-
+The [light_relay.ino] sketch was uploaded on the Arduino using the Arduino IDE.
 	/*
   	Physical Pixel
 
