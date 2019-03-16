@@ -28,8 +28,9 @@ Hardware Schematic.
 ### Hookup Guide:
 #### Step 1:
 Cut holes into Big Red Box enclosure. Make sure that the Arduino MiniB connector line up.
-
-
+<br>
+<img height="700" scr="https://github.com/nganvan/Python-Light-Relay/blob/master/IMG_4671.JPG" />
+<br>
 
 
 
