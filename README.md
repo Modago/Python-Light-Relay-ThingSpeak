@@ -23,8 +23,8 @@ extension cord male end
 Recieved from PCC Engineering Lab
 extension cord female end
 Recieved from PCC Engineering Lab
-Hardware Schematic.
-
+### Hardware Schematic.
+![](images/fritzing_light_relay.png)
 ### Hookup Guide:
 #### Step 1:
 Cut holes into Big Red Box enclosure. Make sure that the Arduino MiniB connector line up.
@@ -143,7 +143,7 @@ The [project_code.py](https://github.com/nganvan/Python-Light-Relay/blob/master/
 
 
 ### Arduino code:
-The [light_relay.ino] sketch was uploaded on the Arduino using the Arduino IDE.
+The [light_relay.ino](https://github.com/nganvan/Python-Light-Relay/blob/master/light_relay.ino) sketch was uploaded on the Arduino using the Arduino IDE.
 	/*
   	Physical Pixel
 
@@ -201,7 +201,7 @@ The [light_relay.ino] sketch was uploaded on the Arduino using the Arduino IDE.
 
 
 ## Result: 
-
+![](images/result.png)
  
  
 ## Future Work
