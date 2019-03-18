@@ -3,7 +3,7 @@ Using Python script and Thinkspeak values to turn a AC light on or off
 Python-light-relay
 ## Problem Statement
 
-The objective was to find a way to turn a light on and off using the SparkFun RedBoard and interfacing the Arduino software with Python. We set out to have a user input “1” or “0” inputs into Python which would be write the data to ThingSpeak and then pull out the data from Thingspeak and subsequently run a current through the relay to operate the light. 
+The objective was to find a way to turn a light on and off using the SparkFun RedBoard and interacting with the Arduino software using a Python script. We set out to have a user input a “1” or “0” into Python which would transfer the data to ThingSpeak. Then pull out the data from Thingspeak and subsequently run a current through the relay to operate the light. 
  
 ## Hardware Setup
 ### Bill of Materials
