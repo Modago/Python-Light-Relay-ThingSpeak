@@ -10,7 +10,7 @@ import time
 import requests
 
 user_input = input('Type 1 to turn light on, Type 0 to turn light off')
-url = f'https://api.thingspeak.com/update?api_key=PYZU7IZ814A3PGGE&field1={user_input}'
+url = f'https://api.thingspeak.com/update?api_key=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX={user_input}'
 print(url)
 r = requests.get(url)
 print(r)
